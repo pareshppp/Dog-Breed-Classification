@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+Env_Files/
+dogImages/
+dogImages.zip
+lfw/
+lfw.zip
+model_scratch.pt
+model_transfer.pt
+dog_app.ipynb
+Dog-Breed-Classification-Scratch.md
