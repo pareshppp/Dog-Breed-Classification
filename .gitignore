@@ -9,3 +9,4 @@ model_scratch.pt
 model_transfer.pt
 dog_app.ipynb
 Dog-Breed-Classification-Scratch.md
+Dog-Breed-Classification-Transfer-Learning-VGG16.md
